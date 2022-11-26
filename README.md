@@ -1,2 +1,1 @@
-Fill-up allcomps.txt with computers name per line
-Start run.bat as domain admin account
+Fill-up allcomps.txt with computers name per line and start run.bat as domain admin account
